@@ -1,0 +1,26 @@
+{
+  "name": "importexport",
+  "version": "1.0.0",
+  "description": "Task 2 homework",
+  "main": "index.js",
+  "scripts": {
+    "serve": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xmifunx/Task2.git"
+  },
+  "keywords": [
+    "Homework"
+  ],
+  "author": "Mifun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xmifunx/Task2/issues"
+  },
+  "homepage": "https://github.com/xmifunx/Task2#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
